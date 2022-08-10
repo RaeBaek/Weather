@@ -14,6 +14,7 @@
 		146778DB28A3BF6A00BDABDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 146778DA28A3BF6A00BDABDA /* Assets.xcassets */; };
 		146778DE28A3BF6A00BDABDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 146778DC28A3BF6A00BDABDA /* LaunchScreen.storyboard */; };
 		146778E628A3EADD00BDABDA /* WeatherInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146778E528A3EADD00BDABDA /* WeatherInformation.swift */; };
+		146778E828A3F42400BDABDA /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 146778E728A3F42400BDABDA /* ErrorMessage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		146778DD28A3BF6A00BDABDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		146778DF28A3BF6A00BDABDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		146778E528A3EADD00BDABDA /* WeatherInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherInformation.swift; sourceTree = "<group>"; };
+		146778E728A3F42400BDABDA /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				146778D128A3BF6800BDABDA /* AppDelegate.swift */,
 				146778D328A3BF6800BDABDA /* SceneDelegate.swift */,
 				146778D528A3BF6800BDABDA /* ViewController.swift */,
+				146778E728A3F42400BDABDA /* ErrorMessage.swift */,
 				146778D728A3BF6800BDABDA /* Main.storyboard */,
 				146778DA28A3BF6A00BDABDA /* Assets.xcassets */,
 				146778DC28A3BF6A00BDABDA /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				146778D628A3BF6800BDABDA /* ViewController.swift in Sources */,
 				146778E628A3EADD00BDABDA /* WeatherInformation.swift in Sources */,
+				146778E828A3F42400BDABDA /* ErrorMessage.swift in Sources */,
 				146778D228A3BF6800BDABDA /* AppDelegate.swift in Sources */,
 				146778D428A3BF6800BDABDA /* SceneDelegate.swift in Sources */,
 			);
